@@ -1,2 +1,2 @@
 # AstroLog
-mini project
+mini project Dbms
