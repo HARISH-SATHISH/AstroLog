@@ -1,1 +1,2 @@
 # AstroLog
+mini project
